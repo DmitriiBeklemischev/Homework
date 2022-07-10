@@ -3,9 +3,9 @@ Console.WriteLine("Введите число");
 int num = int.Parse(Console.ReadLine());
 if (num % 2 == 0)
 {
-    Console.Write("Введенное число является четным");
+    Console.Write(num +" -> Да");
 }
 else
 {
-    Console.Write("Введенное число нечетное");
+    Console.Write(num +" -> Нет");
 }
