@@ -3,3 +3,13 @@ H:\Учеба програмирование\ДЗ\Homework\Task #5\obj\Debug\net
 H:\Учеба програмирование\ДЗ\Homework\Task #5\obj\Debug\net6.0\Task #5.AssemblyInfoInputs.cache
 H:\Учеба програмирование\ДЗ\Homework\Task #5\obj\Debug\net6.0\Task #5.AssemblyInfo.cs
 H:\Учеба програмирование\ДЗ\Homework\Task #5\obj\Debug\net6.0\Task #5.csproj.CoreCompileInputs.cache
+H:\Учеба програмирование\ДЗ\Homework\Task #5\bin\Debug\net6.0\Task #5.exe
+H:\Учеба програмирование\ДЗ\Homework\Task #5\bin\Debug\net6.0\Task #5.deps.json
+H:\Учеба програмирование\ДЗ\Homework\Task #5\bin\Debug\net6.0\Task #5.runtimeconfig.json
+H:\Учеба програмирование\ДЗ\Homework\Task #5\bin\Debug\net6.0\Task #5.dll
+H:\Учеба програмирование\ДЗ\Homework\Task #5\bin\Debug\net6.0\Task #5.pdb
+H:\Учеба програмирование\ДЗ\Homework\Task #5\obj\Debug\net6.0\Task #5.dll
+H:\Учеба програмирование\ДЗ\Homework\Task #5\obj\Debug\net6.0\refint\Task #5.dll
+H:\Учеба програмирование\ДЗ\Homework\Task #5\obj\Debug\net6.0\Task #5.pdb
+H:\Учеба програмирование\ДЗ\Homework\Task #5\obj\Debug\net6.0\Task #5.genruntimeconfig.cache
+H:\Учеба програмирование\ДЗ\Homework\Task #5\obj\Debug\net6.0\ref\Task #5.dll
